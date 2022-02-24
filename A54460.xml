@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King and Queen in Their Majesties chappel at Windsor, on Trinity-Sunday, May 30. 1686 by the Reverend Father John Persall ...</title>
+            <author>Persall, John, 1633-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54460</idno>
+            <idno type="STC">Wing P1651</idno>
+            <idno type="STC">ESTC R11064</idno>
+            <idno type="EEBO-CITATION">12199363</idno>
+            <idno type="OCLC">ocm 12199363</idno>
+            <idno type="VID">56079</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56079)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King and Queen in Their Majesties chappel at Windsor, on Trinity-Sunday, May 30. 1686 by the Reverend Father John Persall ...</title>
+                  <author>Persall, John, 1633-1702.</author>
+               </titleStmt>
+               <extent>[2], 29, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XXVIII, 19 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56079:1"/>
+            <pb facs="tcp:56079:1"/>
+            <p>A SERMON Preach'd before the King and Queen, IN Their MAJESTIES Chappel at <hi>Windſor,</hi> on <hi>Trinity-Sunday, May</hi> 30. 1686.</p>
+            <p>By the Reverend Father <hi>JOHN PERSALL,</hi> Of the Society of JESUS, Profeſſor of Divinity.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:56079:2"/>
+            <pb n="1" facs="tcp:56079:2"/>
+            <head>A SERMON Preach'd before THEIR MAJESTIES, On
+<hi>Trinity-Sunday, May</hi> 30. 1686.</head>
+            <epigraph>
+               <q>
+                  <p>In Nomine Patris, &amp; Filii, &amp; Spiritûs Sancti.</p>
+                  <bibl>
+                     <hi>Matth. c.</hi> 28. <hi>v.</hi> 19.</bibl>
+               </q>
+               <q>
+                  <p>In the Name of the Father, and of the Son, and of the Holy Ghoſt.</p>
+                  <bibl>
+                     <hi>Matth. c. 28. v. 19.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Inſcrutable Myſtery of the moſt Bleſſed Tri<g ref="char:EOLhyphen"/>nity propos'd to our Ve<g ref="char:EOLhyphen"/>neration in this Days So<g ref="char:EOLhyphen"/>lemnity, is ſo ſublime, that no Created Intellect can reach it, <pb n="2" facs="tcp:56079:3"/>the moſt high-flying Wits fall infinitely ſhort of it; ſo profound and deep, that the moſt penetrating Judgments cannot fathom it; ſo infinite in all its Excellen<g ref="char:EOLhyphen"/>cies and Perfections, that neither Hu<g ref="char:EOLhyphen"/>mane nor Angelical Capacity can com<g ref="char:EOLhyphen"/>prehend it. The great St. <hi>Auguſtin</hi> thought it once worth his labour to employ his noble Thoughts in diſcovery of theſe admirable Secrets, that are couch'd in this Sacred Myſtery; he walks by the Sea-ſhore, contemplating the Divine Proceſſions and Relations, a true Trinity of Perſons in a perfect Uni<g ref="char:EOLhyphen"/>ty of Subſtance, the Father, Son, and Holy Ghoſt, three really diſtinct Per<g ref="char:EOLhyphen"/>ſons, yet ſo, that the Father is in the Son, the Son is in the Father, the Holy Ghoſt in the Father and the Son, all three in each by a ſtrict Identity of one Sub<g ref="char:EOLhyphen"/>ſtance. The Father is not the Son, the Son is not the Holy Ghoſt, the Holy Ghoſt is neither Father nor Son; and yet the Father, Son, and Holy Ghoſt are one and the ſame thing.<note place="margin">Lat. 4. c. 2.</note> 
+               <hi>Idem omnino.</hi> In <pb n="3" facs="tcp:56079:3"/>the middle of theſe Thoughts, St. <hi>Augu<g ref="char:EOLhyphen"/>ſtin</hi>'s Eyes chanced to glance upon a Child juſt by the Sea-ſide, very buſie in lading out the Sea into a little Pit he had made there; and asking him what he meant to do, the Child anſwer'd, <hi>To empty the Sea into this Pit: But doſt thou not ſee</hi> (ſays the Saint) <hi>that thy Pit is too little to hold all thoſe Waters? I can more eaſily do this</hi> (replies the Child) <hi>than you compaſs what you are about.</hi> Thus Al<g ref="char:EOLhyphen"/>mighty God did teach this great Servant of his, how little proportion all Hu<g ref="char:EOLhyphen"/>mane Induſtry has
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> order to the un<g ref="char:EOLhyphen"/>derſtanding this ineffable and incompre<g ref="char:EOLhyphen"/>henſible Myſtery; far leſs than the Child's little Pit, in order to contain an Ocean of Waters: Yet for all this St.
+<hi>Auguſtin</hi> ceaſed not from contempla<g ref="char:EOLhyphen"/>ting this great Myſtery, of which he wrote Fifteen Learned Books, beſides divers Sermons; but he changed his way of Speculating, he ſtudies no more to underſtand it; and therefore to <hi>How can this be?</hi> he ever anſwers, <hi>Neſcio, I
+<pb n="4" facs="tcp:56079:4"/>know not;</hi> I am a Chriſtian, I believe it, I adore, I reverence, reſpect, and love it; but to underſtand it, comprehend it, expreſs it as it is, I am not able. He contemplated it as the prime Object of his Faith, Adoration, and Affection; in like manner we, in imitation of this great Doctor, neither ſearching too cu<g ref="char:EOLhyphen"/>riouſly into that which Faith teaches to be inſcrutable, nor yet paſſing over in ſilence what the Church on this Day propoſes to our Thoughts, as a Myſtery, which is to be the Subject of our Eter<g ref="char:EOLhyphen"/>nal Happineſs, will conſider it, Firſt, as the Object of our Faith; Secondly, as the Object of our Love; Thirdly, as the Object of our Imitation. In the Firſt Point we'll ſee what we are to be<g ref="char:EOLhyphen"/>lieve, and from the hardneſs of it learn a Principle which will ground us in true Faith and Religion. In my Second we'll learn where to ſettle our Affections: In my Third, how to make our Souls (what they were created) perfect Images of the Trinity, by ſquaring our Acti<g ref="char:EOLhyphen"/>ons <pb n="5" facs="tcp:56079:4"/>according to this Divine Pattern: Three Parts of one and the ſame Di<g ref="char:EOLhyphen"/>ſcourſe; ſo that the Second proceeds from the Firſt, Love from Faith; the Third from the Firſt and Second, Imita<g ref="char:EOLhyphen"/>tion from Faith and Love. Now that all may ſucceed to the greater Glory of this Great Trinity, let us have recourſe to the Interceſſion of the Immaculate Virgin-Mother, Daughter to the Eternal Father, Mother to the Eternal Son, Spouſe to the Holy Spirit, perfect Tem<g ref="char:EOLhyphen"/>ple of the whole Trinity, ſaluting her with the Archangel, <hi>Ave Maria.</hi>
+            </p>
+            <p>I Know not by what better means we may arrive to frame a true, right, and profitable Idea of this Myſtery, than by contemplating its Image, the Soul of Man, where you will find, that as often as any thing excellent and ami<g ref="char:EOLhyphen"/>able is objected to her, ſhe preſently ſpeaks it, ſaying, This is fine, this is admirable, this deſerves to be belov'd in<g ref="char:EOLhyphen"/>deed; from whence connaturally proceeds <pb n="6" facs="tcp:56079:5"/>a certain breathing, an affection, or de<g ref="char:EOLhyphen"/>ſire of enjoying that ſo amiable Object. In like manner, Almighty God with an Infinite Clarity comprehending his own infinitely amiable Eſſence, and in it all created truths that are poſſible, ſpeaks what he knows, expreſſing himſelf as he is, Infinite in all perfections; then he breaths forth a certain Divine Love pro<g ref="char:EOLhyphen"/>ceeding from his ſpeaking and the word ſpoken; this ſpeaking or producing the Word, conſtitutes the Firſt Perſon, God the Father; the Word ſpoken is the Se<g ref="char:EOLhyphen"/>cond Perſon, God the Son; the Third Perſon is the Love, which both the Firſt and Second jointly breath forth, God the Holy Ghoſt or Spirit. The ſecond is the Son, becauſe as it is the property of a Father to propagate his Nature, and give it a ſecond Being in his Son, ſo the Eternal Father ſpeaking propa<g ref="char:EOLhyphen"/>gates his own Divine Nature, giving it (as it were) a ſecond Being in that Con<g ref="char:EOLhyphen"/>ſubſtantial Image; whereas the Holy-Ghoſt being Love gives not any Being <pb n="7" facs="tcp:56079:5"/>to its Object, but only embraces what it finds. Now becauſe nothing can be in God, or affect God, but what is God, each Perſon muſt needs be God: Again, becauſe the very Notion of God ex<g ref="char:EOLhyphen"/>cludes a Multiplicity, as including all perfection imaginable, and conſequent<g ref="char:EOLhyphen"/>ly, leaving none to be poſſeſſed by an other, only by participation, the pro<g ref="char:EOLhyphen"/>perty of a Creature; it follows, that all three Perſons are but one and the ſame God; now how this can be, three Perſons, one only God, is above our reach; here it is we are to obey the Apoſtle, making Reaſon ſtoop to Faith. But what, ſays the Atheiſt or Heathen, muſt I then become Irrational before I can be a Chriſtian? Muſt I renounce that very faculty which diſtinguiſhes me from a Bruit? Muſt I admit things that evi<g ref="char:EOLhyphen"/>dently contradict the firſt Principles of Reaſon, and thwart the very light of Nature? Three Perſons one God, the Father and the Son the ſelf ſame thing, and yet two Perſons really diſtinct? <pb n="8" facs="tcp:56079:6"/>Nay then, adieu all Diſcourſe, adieu all Knowledge, if we renounce the very grounds of Knowledge and Diſcourſe. This Objection lies under the very ſame inconveniences it objects againſt the My<g ref="char:EOLhyphen"/>ſteries of our Faith; 'tis irrational, it con<g ref="char:EOLhyphen"/>tradicts the firſt Principles of Reaſon, and thwarts the very light of Nature; whereas our Faith, tho' ſupernatural, tho' above Reaſon, yet it confirms true Reaſon; for Almighty God only exacts of us to believe when we have reaſon to believe; then we muſt make Reaſon ſtoop to Faith, when we have reaſon ſo to do. We are to underſtand then, that there is in us a twofold Reaſon; one direct, coming from the Objects we diſcourſe on; the other reflex, reflecting upon Reaſon, and conſidering how far it can go; this often forces us to ſubmit our direct Reaſon even to Humane Autho<g ref="char:EOLhyphen"/>rity. So an ignorant Peaſant looking upon the Stars in a clear Night, accord<g ref="char:EOLhyphen"/>ing to direct Reaſon riſing from his Sen<g ref="char:EOLhyphen"/>ſes, judges them not an Inch Diameter, <pb n="9" facs="tcp:56079:6"/>and that ten or twenty of them joyn'd together would ſcarce equal a Full-Moon; but he hears all Mathematici<g ref="char:EOLhyphen"/>ans and Learned Men agree, that each Star far exceeds the Moon, nay, and the whole Globe of the Earth; he ſub<g ref="char:EOLhyphen"/>mits his direct Reaſon to this Authority, and by reflex Reaſon diſcourſes thus: <hi>I, who am an ignorant Man, may well be deceived; therefore theſe learned Men all agreeing, I muſt in prudence yield.</hi> So he ſubmits his direct Reaſon even to Humane Authority, and is taught ſo to do by reflex Reaſon, and the very Light of Nature. This is more evident in the Myſteries of our Faith: Direct Reaſon tells us, a Trinity in a perfect Unity is impoſſible; but reflex Reaſon corrects this Errour, diſcourſing thus: <hi>My <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding is but Finite and Limited; Al<g ref="char:EOLhyphen"/>mighty God is Infinite, and would not be God, if he were not in himſelf, more than my weak and feeble Capacity can conceive: If then I have a moral certainty, that my Great God has reveal'd himſelf to be
+<pb n="10" facs="tcp:56079:7"/>Three and One; if his Holy Church, which put into my Hands the Scripture it ſelf, aſſuring me, that it is the Word of God, interprets theſe Words,</hi> Theſe three are one, <hi>St.</hi> John<hi>'s firſt Epiſt. c.</hi> 5. <hi>v.</hi> 7. <hi>and theſe other,</hi> I and my Father are one, <hi>St.</hi> John's <hi>Goſpel, c.</hi> 10. <hi>v.</hi> 30.
+<hi>If, I ſay, this Church interprets theſe Words in a real ſtrict ſenſe, which otherwiſe might bear a more eaſie Interpretation in a metaphorical or figurate ſenſe, I muſt and will believe it, tho' it coſt me the laſt drop of my Blood, what ſeeming Impoſſibilities ſoever Senſe and direct Reaſon objects againſt it; and this I am taught by reflex Reaſon, and the Light of Nature it ſelf; this is a Duty I owe to my Great God, to acknowledge that I ought to believe more than I can under<g ref="char:EOLhyphen"/>ſtand.</hi> From this Diſcourſe I hope it appears clear enough, how rational the Myſteries of our Faith are, and how ir<g ref="char:EOLhyphen"/>rational it is to diſcredit them upon this account, that we cannot underſtand them. This is a Principle which ought to be the Ground of our Belief, <hi>viz.
+<pb n="11" facs="tcp:56079:7"/>That God can reveal more than we can underſtand;</hi> and that many things to our Weakneſs ſeem impoſſible, which to our Great God are very feaſible, this the Light of Nature teaches us, and it muſt carry us through all the profound, hard Myſteries of our Faith. To deny a thing upon this account, that it con<g ref="char:EOLhyphen"/>tradicts Senſe and direct Reaſon, is ir<g ref="char:EOLhyphen"/>rational, injurious to Almighty God, and deſtructive to Chriſtianity. It is irrational; for Reaſon teaches us, that our Senſes and direct Reaſon are often miſtaken: How often do's the Mathema<g ref="char:EOLhyphen"/>tician and Natural Philoſopher at firſt think that a Demonſtration, which after<g ref="char:EOLhyphen"/>wards he finds, either by his own Study, or anothers Diſcovery, to be a Paralogiſm?
+'Tis injurious to God, becauſe it limits his Omnipotency to our Weakneſs;
+'tis deſtructive to Chriſtianity, becauſe it deſtroys the two chief Myſteries of Chri<g ref="char:EOLhyphen"/>ſtianity, the Trinity and Incarnation, both which ſeemingly contradict direct Reaſon. I do not believe Chriſt to be a
+<pb n="12" facs="tcp:56079:8"/>Natural Door, tho' I hear him ſay, <hi>I am a Door, John c.</hi> 10. <hi>v.</hi> 9. nor a Natu<g ref="char:EOLhyphen"/>ral Vine, tho' I hear him ſay, <hi>I am the True Vine, John c.</hi> 15. <hi>v.</hi> 1. but God for<g ref="char:EOLhyphen"/>bid I ſhould deny either upon this ac<g ref="char:EOLhyphen"/>count, that I cannot underſtand how it can poſſibly be done, but I deny it, be<g ref="char:EOLhyphen"/>cauſe the Church teaches me that I muſt underſtand theſe words in a Metaphori<g ref="char:EOLhyphen"/>cal Senſe. There have been Hereſies from the Apoſtles times downwards to to our Age, and many have died obſti<g ref="char:EOLhyphen"/>nate in their Hereſie; but I verily be<g ref="char:EOLhyphen"/>lieve, that both their Hereſie and Ob<g ref="char:EOLhyphen"/>ſtinacy proceeded from a want of this Principle, <hi>That God can reveal more than we can underſtand.</hi> Let us then pay this duty to our great God, an humble acknowledgment of our Weak<g ref="char:EOLhyphen"/>neſs and his Power, that he can reveal more, infinitely more than we are able to conceive. And ſo much for my firſt Part, of the Trinity as it is the Object of our Faith; Let us now lanch forth into a Sea of Love, and conſider this <pb n="13" facs="tcp:56079:8"/>great Myſtery as the thrice happy Ob<g ref="char:EOLhyphen"/>ject of our Affections.</p>
+            <p>The Almighty Architect created Man according to his perfect Image, with in<g ref="char:EOLhyphen"/>tent to make him happy for an Eter<g ref="char:EOLhyphen"/>nity in the perfect Enjoyment of his God; and therefore has imprinted in his Soul ſo violent an Appetite and Deſire of that bleſſed Fruition, that let a thou<g ref="char:EOLhyphen"/>ſand Worlds joyn their Stocks together, let Men and Angels, and all that is cre<g ref="char:EOLhyphen"/>ated, conſpire to regale him, his capa<g ref="char:EOLhyphen"/>cious Heart will never be perfectly ſati<g ref="char:EOLhyphen"/>ated, never at reſt and quiet, but in the Divine Embraces of an Omnipotent, Immenſe, Eternal Trinity, the Fountain of all Beauty and Amability. O you young Gallants of the World, who ſpend your Time, Fortunes, Life and all, in the purſuit of a fading Beauty, a Roſe ſurrounded with ſo many pricking Thorns of Cares and Solicitude, a Flow<g ref="char:EOLhyphen"/>er ſo ſoon withered with Time, ſo of<g ref="char:EOLhyphen"/>ten blaſted with Sickneſs, ſo eaſily crop<g ref="char:EOLhyphen"/>ped <pb n="14" facs="tcp:56079:9"/>by Death, ſtop this your unadvis'd Career, and know, that you are far out of your Way, if you pretend to look for Happineſs in the Enjoyment of Mor<g ref="char:EOLhyphen"/>tal Beauty: 'Tis true, your Souls were created to love and enjoy a Beauty, but a True and Infinite one, for an Eterni<g ref="char:EOLhyphen"/>ty; not a falſe Repreſentation thereof for a Moment; 'tis the blindneſs of your Underſtandings, and pravity of your Wills, (the ſad Effects of Original Sin) that make you thus miſtake the Object of your Happineſs, and apply your na<g ref="char:EOLhyphen"/>tural or innate Appetite to Creatures, which in reality ſeeks only the Creator, One in Subſtance, and Three in Perſons.</p>
+            <p>Let us then raiſe our Thoughts as high as Faith can carry them, to the Contemplation of this all-beatifying Object, which will be our eternal Bliſs, if we make not our ſelves ſo miſerable as eternally to periſh. Firſt then, Each Perſon is Omnipotent, Eternal, Immenſe, All-knowing, Infinite in Wiſdom, Good<g ref="char:EOLhyphen"/>neſs, <pb n="15" facs="tcp:56079:9"/>and all Perfections; from the Com<g ref="char:EOLhyphen"/>plex of which ariſes ſo great an Amabi<g ref="char:EOLhyphen"/>lity and Beauty, that no Rational Crea<g ref="char:EOLhyphen"/>ture can behold it, and not preſently fall in love with it, ſo far, that whilſt the happy Soul enjoys this Viſion, no crea<g ref="char:EOLhyphen"/>ted Beauty, tho' never ſo exact and charming, can make any Impreſſion in her, but only as ſhe ſees it clearly repre<g ref="char:EOLhyphen"/>ſented in the Divine Idea's, and ſuper<g ref="char:EOLhyphen"/>eminently contain'd in the Object ſhe above all admires and loves: Nay, even in this Night of Mortality, ſome Souls, by the help of Divine Grace and Light of Faith, arrive to ſo high a pitch of Divine Love, that nothing here below, neither Pleaſure nor Torment, can move them. So S.
+<hi>Vincent</hi> in a Bed of Roſes contemns the Allurements of Pleaſures; and S. <hi>Lawrence</hi> in a Bed of Flames, upon a Gridiron, the Cruelty of Ty<g ref="char:EOLhyphen"/>ranny. How many have fled to the remoteſt Deſarts? How many have ſhut themſelves up in Monaſteries, betwixt four Walls of a little Cell, not to be <pb n="16" facs="tcp:56079:10"/>diverted from the delicious Contempla<g ref="char:EOLhyphen"/>tion of their Great God? Now all this Amability is common to all Three Per<g ref="char:EOLhyphen"/>ſons, with this difference, that in the Father it is originally as in a Fountain, receiv'd from no other Perſon; in the Son it is receiv'd by communication from the Father; in the Holy Ghoſt, from the Father and the Son. Which very Communication is infinitely ami<g ref="char:EOLhyphen"/>able, had we Eyes to behold it. The chief Property of the Father is to ſpeak; which he does not to the Ear, but to the Heart and Eye of the Soul, deliver<g ref="char:EOLhyphen"/>ing his Great Word with ſo Divine a Grace, that the moſt delicious Voice that ever was heard, the moſt agreea<g ref="char:EOLhyphen"/>ble Garbo that ever a pure Creature ſpoke with, is but a meer Stuttering and Stammering, if compar'd to it. But the chief Perfection of Speaking is ta<g ref="char:EOLhyphen"/>ken from the Word ſpoken; if that be clear, expreſſive, ſincere, and eloquent, both it, and he who ſpeaks it, become in a high degree amiable. The Eternal
+<pb n="17" facs="tcp:56079:10"/>Word repreſents its Object to your view, infinitely clearer than that could repreſent it ſelf tho' never ſo intimately preſent; ſo expreſſive it is, that being but One only Word, it expreſſes all Truths, all Creatures, whether actual, or but barely poſſible. All the delicious Objects of our Senſes, whatever can be ſeen or heard, all the Truths our Under<g ref="char:EOLhyphen"/>ſtanding is able to conceive, all the De<g ref="char:EOLhyphen"/>lights our Will can deſire; 'tis moſt ſincere and true, expreſſing all juſt as 'tis repreſented in the Divine Knowledge, and as it is in it ſelf; 'tis eloquent above expreſſion, exhibiting to our view all the Tropes and Figures, all the Art and Skill of Speaking that is poſſible.</p>
+            <p>Now from the Eternal Father thus ſpeaking, and from the Eternal Word thus expreſſing, muſt needs proceed an Infinitely Amiable Love; What can be more amiable than Love it ſelf? Love, I ſay, a Divine, and infinitely perfect Love of an infinitely beautiful God. <pb n="18" facs="tcp:56079:11"/>
+               <hi>Quam bonus &amp; ſuavis eſt, Domine, Spiritus tuus!</hi> How good, how ſweet is thy Di<g ref="char:EOLhyphen"/>vine Spirit! How good, diffuſing it ſelf by Grace and Charity in Pious Souls; How ſweet, giving them even in this life anticipately a taſte of thoſe joys, which will beatifie them for all Eterni<g ref="char:EOLhyphen"/>ty in the next. The perfection of Love is taken from the Lover, the Beloved, and the natural intenſeneſs of the Love; the nobler the Lover is, alſo, the more deſerving the Beloved is, the perfecter is the Love. The Lover here are the three Perſons of the Bleſſed Trinity, the Be<g ref="char:EOLhyphen"/>loved are the ſame three Perſons meet<g ref="char:EOLhyphen"/>ing and embracing each other in the perfect Unity of one God. The Father loves the Son; the Son loves the Father; the Father and the Son love the Holy Ghoſt, the Holy Ghoſt reciprocally loves the Father and the Son, and more<g ref="char:EOLhyphen"/>over is the very Love whereby they Love each other, all Infinite in all Perfections. Dearly beloved Chriſtians, no Tongue or Pen can ever expreſs the amability of <pb n="19" facs="tcp:56079:11"/>the three Divine Perſons; it may per<g ref="char:EOLhyphen"/>haps by a Pious Soul in Prayer be felt, and as it were taſted; expreſſed in words it cannot be. Do you deſire to experience even in this life, a feeling and taſte of it? Remember what the great
+<hi>Moſes</hi> was bid to do, when he approach'd the burning Buſh, <hi>Gen. c.</hi> 3. <hi>v.</hi> 3. <hi>Draw not nigh hither, put off thy Shoes;</hi> we muſt not approach to contem<g ref="char:EOLhyphen"/>plate this great Myſtery, till we have caſt off all the Dirt and Duſt of terrene deſires, our Converſation muſt be no more on Earth, but in Heaven; Al<g ref="char:EOLhyphen"/>mighty God never regales ſenſual Souls with Spiritual Delights; but ſuch as neither find, nor ſo much as ſeek after the vain Paſtimes of this World. This makes your Great Saints proclaim War againſt Fleſh and Blood, always annoy<g ref="char:EOLhyphen"/>ing, vexing, and mortifying their Bo<g ref="char:EOLhyphen"/>dies, becauſe they experience, that the more they withdraw themſelves from Earth, the more Almighty God permits them to taſt of Heaven; 'tis a real truth <pb n="20" facs="tcp:56079:12"/>(though few will believe it) that none lead a pleaſanter life in this World than thoſe who give themſelves wholly to Al<g ref="char:EOLhyphen"/>mighty God; for his Divine Majeſty will never be overcome in Love. The three Perſons of the Bleſſed Trinity will love ſuch a Soul, come to it, and regale it, according to our Saviours Promiſe, St. <hi>John c.</hi> 14.
+<hi>v.</hi> 23. <hi>If any Man love me, he will keep my Words, and my Father will love him, and we will come unto him, and make our abode with him:</hi> The Eter<g ref="char:EOLhyphen"/>nal Father will perfect that Image he created to his likeneſs; the Son will illu<g ref="char:EOLhyphen"/>minate it with the Rays of new Super<g ref="char:EOLhyphen"/>natural Lights; the Holy Ghoſt will ſweetly inflame it with Divine Love. But remember the Condition, we muſt keep his Commandments: and in order to this, let us look upon the Sacred Tri<g ref="char:EOLhyphen"/>nity as a Pattern to ſquare our Actions by, which is my third Point.</p>
+            <p>You will, perhaps, wonder, how ſo profound and incomprehenſible a My<g ref="char:EOLhyphen"/>ſtery <pb n="21" facs="tcp:56079:12"/>can ever ſerve us as a Pattern for our poor and weak Actions. Is it poſ<g ref="char:EOLhyphen"/>ſible for a miſerable Creature to imitate theſe ineffable Operations of the Divine Perſons? But remember that our Soul, tho' now by Original Sin plung'd in Fleſh and Blood, is created to the per<g ref="char:EOLhyphen"/>fect Image of her God. <hi>God made Man to his own Image, Gen.</hi> 1. <hi>v.</hi> 27. What wonder then if we endeavour to reform the Picture, by comparing it with the <hi>Prototypon?</hi> Beſides, do's not our Savi<g ref="char:EOLhyphen"/>our himſelf aſſign the Perfection of his Eternal Father for a Pattern to frame ours by? <hi>Be you perfect</hi> (ſays he) <hi>as your Father which is in Heaven is per<g ref="char:EOLhyphen"/>fect, Matth. c.</hi> 5. <hi>v.</hi> 48. Come then, let us once more caſt an eye towards this great Myſtery, and ſee whether we can<g ref="char:EOLhyphen"/>not find ſomething for our Imitation: We learn'd to Believe in the Firſt Part, to Love in the Second; let us learn to rectifie our exteriour Actions in the Third. The firſt thing which occurs for our Imitation, is the Unity of all <pb n="22" facs="tcp:56079:13"/>Three Perſons in One Subſtance: We cannot Identifie our Natures really di<g ref="char:EOLhyphen"/>ſtinct, but we may unite them by Cha<g ref="char:EOLhyphen"/>rity and Love. Hence Chriſt, juſt be<g ref="char:EOLhyphen"/>fore his Paſſion, prays to his Eternal Fa<g ref="char:EOLhyphen"/>ther, in <hi>S. John, c.</hi> 17. <hi>v.</hi> 20, <hi>&amp;</hi> 21. not only for his Apoſtles, but for all that were to believe by their Word,
+<hi>That they might be One, as His Father in him, and he in his Father are One.</hi> We muſt re<g ref="char:EOLhyphen"/>member, we are all Members of the ſame Body, under the ſame Head <hi>Chriſt,</hi> and conſequently each one is to be in one another, ſo as to make his Intereſt our own; we ought to condole as much for the Adverſity of another, and rejoyce for his Proſperity, as if it were our own; we muſt redreſs the Neceſſity of another, as much as if it were our own; we muſt as earneſtly concur to one ano<g ref="char:EOLhyphen"/>thers Preferment, as to our own, and re<g ref="char:EOLhyphen"/>joyce as much for it: then Almighty God will look upon us as making one with his Servants; and what our tepi<g ref="char:EOLhyphen"/>dity do's not deſerve, he'll bountifully <pb n="23" facs="tcp:56079:13"/>confer upon us, for their ſakes with whom Charity has united us: But tho' you are endow'd with never ſo great Gifts and Vertues, <hi>ſi charitatem non ha<g ref="char:EOLhyphen"/>buero,</hi> if Charity be wanting, if you make not One with all the Faithful Be<g ref="char:EOLhyphen"/>lievers, all is nothing. Away then with all Piques, all Miſunderſtandings, all en<g ref="char:EOLhyphen"/>vious Practices; let us all become one Soul by a perfect Love. Our Great God Incarnate has ſo united himſelf to us, that he takes as done to himſelf whatſoever is done to another, and when he comes to judge, will reward charita<g ref="char:EOLhyphen"/>ble Actions done to our Neighbour, as done to himſelf; and revenge all Inju<g ref="char:EOLhyphen"/>ries, as offer'd to himſelf. He will in<g ref="char:EOLhyphen"/>vite the Elect to an eternal Happineſs, not as having done charitable Actions to their Neighbours, but to himſelf; and condemn to eternal Torments the Reprobate, as injurious to himſelf: He will not ſay, Come you Bleſſed, becauſe you gave an Alms to ſuch a poor Man; but, becauſe you gave it to me: nor, Go <pb n="24" facs="tcp:56079:14"/>you Curſed, becauſe you refus'd to re<g ref="char:EOLhyphen"/>dreſs the Neceſſity of ſuch a poor Body; but, of me. If then Chriſt makes him<g ref="char:EOLhyphen"/>ſelf One with his Servants, he who per<g ref="char:EOLhyphen"/>mits himſelf to be ſeparated by Envy and Malice from his Fellow-ſervants, doth in effect ſeparate himſelf from Chriſt.</p>
+            <p>In the ſecond place, we muſt imitate each Perſon in their Proprieties: The Father ſpeaketh according to his Know<g ref="char:EOLhyphen"/>ledge, conforming his Speech to his Thoughts, and expreſſes all in one only Word: This muſt teach us Sincerity, to ſpeak what we think, and no more than we know. The Eternal Father is the Father of Truth; the Devil, his deadly Enemy, the Father of Lies: Chuſe what Pattern you'll follow. Beſides, we muſt learn to avoid multiplicity and idleneſs of Speech: The Eternal Father expreſſes all in one Word, and that neceſſary; let us uſe our ſelves to ſpeak little, for happy is he who exceeds not in Speech, <pb n="25" facs="tcp:56079:14"/>and many Words always involve an Offence of God.</p>
+            <p>From the Son, let us learn to expreſs things as they are in reality, not as our inordinate Paſſions would have them. The Eternal Word proceeds <hi>per Intel<g ref="char:EOLhyphen"/>lectum,</hi> by the Underſtanding; not <hi>per Voluntatem,</hi> by the Will: but our Words often proceed not from our Underſtand<g ref="char:EOLhyphen"/>ing, from a certain knowledge of the thing, but from our Will; ſo if any Abſurdity be done, we preſently lay it at their Doors we have a Pique againſt, (So in the Primitive Church the Hea<g ref="char:EOLhyphen"/>thens aſcrib'd all Miſchiefs and Miſ<g ref="char:EOLhyphen"/>chances to the Chriſtians, as we read in
+<hi>Tertullian</hi> and others) <hi>Thoſe damn'd, what you pleaſe, did it.</hi> From whence comes this Word? from a knowledge of the Fact? No; but from the malice of our Will. This is prepoſterous; our Words muſt proceed, as the Eternal Word do's, from the Underſtanding, from a perfect Knowledge of what we ſpeak.</p>
+            <pb n="26" facs="tcp:56079:15"/>
+            <p>From the Holy Ghoſt we muſt learn what and how to Love. The prime and final Object of our Love muſt be Almighty God, other things we are to love only in relation to him; he is the fountain of all good, and therefore we muſt remember, when we meet with any thing amiable, that it is but a Rivulet flowing from that great Fountain, and to be found in greater perfection there. The Holy Spirit proceeds from the Fa<g ref="char:EOLhyphen"/>ther, ſpeaking, and the word expreſſing the Divine <hi>Being</hi> infinitely amiable. Let all our Love proceed ſo, not from a falſe deluſion of our Senſes, making us fix on Creatures tho' very meanly ami<g ref="char:EOLhyphen"/>able, and that with an amability meerly participated and deriv'd from the Foun<g ref="char:EOLhyphen"/>tain of Amability. As often as we feel our Hearts mov'd to a tenderneſs and kindneſs, let us conſider from what it proceeds, is it from a word ſpeaking the Creature amiable without meutioning the Creator? O then it comes from a <pb n="27" facs="tcp:56079:15"/>falſe, from a lying Word; 'tis Illegiti<g ref="char:EOLhyphen"/>mate, it muſt not inherit your Heart, you muſt caſt it out, 'tis a baſe ſervile affection <hi>ejice ancilam,</hi> but the true Le<g ref="char:EOLhyphen"/>gitimate Poſſeſſor of your Heart muſt be a Divine Love, proceeding from a word expreſſing the Divine Fountain of all Perfection.</p>
+            <p>But I muſt draw towards an end not to abuſe your Patience; we have then learnt in my Firſt Part, to believe what we cannot underſtand, ſeeing that God would not be God, could he not reveal of himſelf more than we can comprehend. My Second Part has led us to the Fountain of all Amability, and pointed unto us the true Center of our Hearts. In my Third Part we have learn'd to imitate all three Perſons in tending to a perfect Unity by Charity; and each Perſon in their Proprieties; the Father in being Sincere, ſpeaking what we know, and in as few words as we can; the Son in ſeeing that our <pb n="28" facs="tcp:56079:16"/>Words proceed from Knowledge, not from Affection; from Reaſon, not from Paſſion: The Holy Ghoſt, in loving God only as our End, and all things elſe meerly in relation to him. There only now remains, that with the Tears of Penance, Acts of perfect Contrition, we waſh away whatever deformed the Sacred Image of the Trinity in our Souls, and beg Strength, Light and Grace to keep it entire for the future. <hi>O Omnipotent Father, whoſe Power is with<g ref="char:EOLhyphen"/>out Limits, give us ſtrength to believe what we cannot underſtand, to love what our Senſes cannot reach, to keep thy I<g ref="char:EOLhyphen"/>mage in our Souls entire againſt the World, Fleſh and Devil, who endeavours to diſ-figure it. O Eternal Word! In<g ref="char:EOLhyphen"/>created Wiſdom, Illuminate our Souls with thy Divine Rays, that our Interiour and Exteriour Words may ſpeak according to Faith and Reaſon, prefere Eternity be<g ref="char:EOLhyphen"/>fore Time, Heaven before Earth, the Crea<g ref="char:EOLhyphen"/>tor before the Creature: O Holy Spirit, dif<g ref="char:EOLhyphen"/>fuſe thy Grace and Charity in our Souls, <pb n="29" facs="tcp:56079:16"/>that we may all in a perfect <g ref="char:V">Ʋ</g>nity be One, as the Father, Son and Holy Ghoſt are One; that appearing in the laſt dread<g ref="char:EOLhyphen"/>ful Day of Doom, we may appear not ſe<g ref="char:EOLhyphen"/>parated, but united with the Elect, and be received into Eternal Happineſs, as carrying clearly Imprinted in our Souls the Characteriſtical note of a Chriſtian, grateful to Heaven, terrible to Hell, be<g ref="char:EOLhyphen"/>neficial to Earth, the Sign of the Holy Croſs,</hi> In the name of the Father, Son, and Holy Ghoſt. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:56079:17"/>
+            <head>A Catalogue of Books Printed for <hi>Henry Hills,</hi> Printer to the King's moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, for his Houſhold and Chappel,
+1686. And are to be Sold next door to his Houſe in <hi>Black-fryers,</hi> at
+<hi>Richard Cheeſe</hi>'s.</head>
+            <p>REflections upon the Anſwer to the <hi>Papiſt Miſ-repreſented, &amp;c.</hi> Directed to the Anſwerer.
+<hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Kalendarium Catholicum</hi> for the Year 1686.
+<hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Papiſts</hi> Proteſting againſt
+<hi>Proteſtant-Popery.</hi> In Anſwer to a Diſcourſe Entituled, <hi>A Papiſt not Miſ-repreſented by Pro<g ref="char:EOLhyphen"/>teſtants.</hi> Being a Vindication of the <hi>Papiſt Miſ-repreſented</hi> and <hi>Repreſented,</hi> and the
+<hi>Reflections</hi> upon the Anſwer. <hi>Quart.</hi>
+            </p>
+            <p>Copies of Two Papers Written by the late King <hi>Charles</hi> II. Together with a Paper Written by the late Dutcheſs of <hi>York.</hi> Publiſh'd by his Majeſty's Command. <hi>Folio.</hi>
+            </p>
+            <p>The Spirit of Chriſtianity. Publiſh'd by his Majeſty's Com<g ref="char:EOLhyphen"/>mand. <hi>Twelves.</hi>
+            </p>
+            <p>The Firſt Sermon Preach'd before their Majeſties in
+<hi>Engliſh</hi> at <hi>Windſor,</hi> on the firſt <hi>Sunday</hi> of
+<hi>October</hi> 1685. By the Re<g ref="char:EOLhyphen"/>verend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation. Publiſh'd by his Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <p>Second Sermond Preach'd before the King and Queen, and Queen Dowager, at their Majeſties Chappel at St. <hi>James</hi>'s,
+<hi>November</hi> 1. 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation. Publiſh'd by his Majeſty's Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+            </p>
+            <pb facs="tcp:56079:17"/>
+            <p>The Third Sermon Preach'd before the King and Queen, in their Majeſty's Chappel at St. <hi>James</hi>'s, on the third <hi>Sunday</hi> in
+<hi>Advent, December</hi> 13. 1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the
+<hi>Engliſh</hi> Congr. Chaplain in Ordinary to His Ma<g ref="char:EOLhyphen"/>jeſty. Publiſh'd by His Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <p>The Fourth Sermon Preach'd before the King and Queen, in their Majeſties Chappel at St. <hi>Jame</hi>'s, on <hi>Newyears-day,</hi> 1685/6. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St.
+<hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congre<g ref="char:EOLhyphen"/>gation, Chaplain in Ordinary to his Majeſty. <hi>Quarto.</hi>
+            </p>
+            <p>The Fifth Sermon Preach'd before the King and Queen, in Their Majeſties Chappel at St. <hi>James</hi>'s, upon the Feaſt of St.
+<hi>Frances Sales,</hi> Jan. 29. 1685/6. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the
+<hi>Engliſh</hi> Congregation. Chaplain in Ordinary to His Majeſty. Publiſh'd by his Majeſties Command. <hi>Quarto.</hi>
+            </p>
+            <p>Sixth Sermon Preach'd before the King and Queen, in their Majeſties Chappel at St. <hi>James</hi>'s, upon the firſt
+<hi>Wedneſday</hi> in <hi>Lent,</hi> Febr. 24. 1685. By the Reverend Father
+<hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation. Publiſh'd by his Majeſties Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+            </p>
+            <p>An Expoſition of the Doctrine of the Catholic Church in Mat<g ref="char:EOLhyphen"/>ters of Controverſie. By the Right Reverend <hi>James Benigne Boſſuet,</hi> Counſellor to the King, Biſhop of <hi>Meaux,</hi> formerly of
+<hi>Condom,</hi> and Preceptor to the <hi>Dauphin;</hi> Firſt Almoner to the
+<hi>Dauphineſs.</hi> Done into <hi>Engliſh</hi> with all the former Ap<g ref="char:EOLhyphen"/>probations, and others newly Publiſh'd in the Ninth and Laſt Editions of the <hi>French.</hi> Publiſh'd by his Majeſty's Com<g ref="char:EOLhyphen"/>mand.
+<hi>Quarto.</hi>
+            </p>
+            <p>A Sermon Preach'd before the King and Queen, in Their Majeſties Chappel at St. <hi>James</hi>'s, upon the <hi>Annunciation</hi> of our Bleſſed Lady, <hi>March</hi> 25. 1686. By <hi>Jo. Betham</hi> Doctor of
+<hi>Sorbon.</hi> Publiſh'd by his Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <pb facs="tcp:56079:18"/>
+            <p>An Abſtract of the <hi>Douay Catechiſm,</hi> for the Uſe of Children and Ignorant People. Now Revis'd, and much Amended. Publiſh'd with Allowance. <hi>Twentyfours.</hi>
+            </p>
+            <p>A Paſtoral Letter from the Lord Biſhop of <hi>Meaux,</hi> to the <hi>New Catholics</hi> of his Dioceſs, Exhorting them to keep their
+<hi>Eaſter,</hi> and giving them Neceſſary Advertiſements againſt the
+<hi>Falſe Paſtoral Letters</hi> of their <hi>Miniſters.</hi> With Re<g ref="char:EOLhyphen"/>flections upon the <hi>Pretended Perſecution.</hi> Tranſlated out of
+<hi>French,</hi> and Publiſh'd with Allowance. <hi>Quarto.</hi>
+            </p>
+            <p>The Anſwer of the <hi>New Converts</hi> of <hi>France,</hi> to a
+<hi>Paſtoral Letter</hi> from a <hi>Proteſtant Miniſter.</hi> Done out of
+<hi>French,</hi> and Publiſh'd with Allowance. <hi>Quarto.</hi>
+            </p>
+            <p>The Ceremonies for the Healing of them that be Diſeaſed with the Kings Evil, uſed in the time of King <hi>Henry</hi> VII. Publiſh<g ref="char:EOLhyphen"/>ed by His Majeſties Command. <hi>Quarto</hi> in Latin, <hi>Twelves</hi> in Engliſh.</p>
+            <p>A Short Chriſtian Doctrine. Compoſed by the R. Father
+<hi>Ro<g ref="char:EOLhyphen"/>bert Bellarmin,</hi> of the Society of <hi>Jeſus,</hi> and Cardinal. Publiſh<g ref="char:EOLhyphen"/>ed with Allowance. <hi>Twelves.</hi>
+            </p>
+            <p>A Vindication of the Biſhop of <hi>Condom</hi>'s Expoſition of the Doctrine of the Catholic Church. In Anſwer to a Book Entituled, <hi>An Expoſition of the Doctrine of the Church of</hi> England, <hi>&amp;c.</hi> With a Letter from the ſaid Biſhop. <hi>Per<g ref="char:EOLhyphen"/>miſſu Superiorum. Quarto.</hi>
+            </p>
+            <p>A Sermon Preach'd before the King and Queen, in Their Majeſties Chappel at St. <hi>James</hi>'s, on the Twentieth <hi>Sunday</hi> after
+<hi>Pentecoſt, Octob.</hi> 25. 1685. By the Reverend Father <hi>John Perſall,</hi> of the Society of <hi>Jeſus,</hi> Profeſſor of Divinity. Publiſh'd by his Majeſties Command. <hi>Quarto.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
